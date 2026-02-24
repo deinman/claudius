@@ -49,3 +49,6 @@ UpgradeLog.htm
 .idea
 mono_crash.*.json
 mono_crash.*.blob
+
+# Secrets
+launchSettings.json
